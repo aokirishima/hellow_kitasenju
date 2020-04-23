@@ -1,0 +1,28 @@
+body {
+  background-color: #CCFFFF;
+}
+
+header h1 {
+  text-align: center;
+  margin: 100px 0;
+  font-size: 60px;
+}
+
+.main  {
+  text-align: center;
+}
+
+.btn {
+  font-size: 30px;
+  background-color: #8EB8FF;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
